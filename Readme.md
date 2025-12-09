@@ -1,4 +1,4 @@
-# UNet-Based Image Segmentation with Explainable AI  
+# Understanding Semantic Segmentation: A Grad-CAM and Feature Heatmap Analysis of UNet  
 
 This project trains UNet-based segmentation models on two datasets (Tumor & Oxford-IIIT Pet) and provides explainability using Grad-CAM and multi-layer activation heatmaps.
 
