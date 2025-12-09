@@ -122,13 +122,4 @@ Saved under: [`results/heatmap/`](./results/heatmap/)
 - Oxford dataset is already large & diverse, so augmentation sometimes reduces performance.  
 - ResNet-UNet + no-augmentation gave the strongest performance overall.
 
----
 
-# Final Notes
-This repository contains:
-- training scripts  
-- testing scripts  
-- Grad-CAM & heatmap explainability tools  
-- organized output folders  
-
-Everything is modular so you can replace datasets or models easily.
